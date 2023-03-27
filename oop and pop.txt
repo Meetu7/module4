@@ -1,0 +1,36 @@
+POP [Procedure Oriented Programme]
+
+•	Data move freely in the programme
+
+•	The length of the programme is more compared to OOP.
+
+•	It is Top-Bottom Approach.
+
+•	We cannot secure the data in POP.
+
+•	There is no Objects.
+
+•	Programmes can divide into Functions.
+
+•	Most of the function share global data.
+
+
+
+
+	OOP [Object Oriented  Programme]
+
+•	Data does not move freely in the programme.
+
+•	The length of the programme is less compared to POP.
+
+•	It is Bottom-Up Approach.
+
+•	We can secure data on OOP.
+
+•	Objects can communicate with each other.
+
+•	Programmes are divided  into projects.
+
+•	Data is hidden and cannot be accessed by external functions.
+
+
